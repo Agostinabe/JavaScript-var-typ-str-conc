@@ -17,3 +17,5 @@ const parte2 = 'y tengo 23 años';
 
 const uniendo = parte1.concat(parte2);
 console.log(uniendo);
+
+let probando = prueba; 
